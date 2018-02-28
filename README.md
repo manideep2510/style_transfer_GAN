@@ -17,3 +17,7 @@ install juypter [here](http://jupyter.readthedocs.io/en/latest/install.html) if 
 
 Tensorflow implementation of [Learning to Discover Cross-Domain Relations
 with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf).
+
+## Credits
+
+This is the implimentaion of code by [chunyuan](https://github.com/ChunyuanLI/DiscoGAN)
