@@ -13,6 +13,7 @@ run `jupyter notebook` in terminal to see the code pop up in your browser
 
 install juypter [here](http://jupyter.readthedocs.io/en/latest/install.html) if you don't have it. 
 
-## Credits
+## Inspiration
 
-The credits for this code go to [chunyuan](https://github.com/ChunyuanLI/DiscoGAN) i've merely created a wrapper to get people started. 
+Tensorflow implementation of [Learning to Discover Cross-Domain Relations
+with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf).
