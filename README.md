@@ -20,4 +20,4 @@ with Generative Adversarial Networks](https://arxiv.org/pdf/1703.05192.pdf).
 
 ## Credits
 
-This is the implimentaion of code by [chunyuan](https://github.com/ChunyuanLI/DiscoGAN)
+This is the implementation of code by [chunyuan](https://github.com/ChunyuanLI/DiscoGAN)
